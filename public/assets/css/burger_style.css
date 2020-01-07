@@ -1,9 +1,10 @@
 .jumbotron {
-    background-image: url("https://st2.depositphotos.com/4586899/7066/v/950/depositphotos_70661631-stock-illustration-burger-seamless-background.jpg");
+    background-image: url("https://image.freepik.com/free-vector/elegant-white-background-with-shiny-lines_1017-17580.jpg");
     background-repeat: repeat;
     background-position: right;
-    background-color: whitesmoke;
-    color: black;
+    background-color: black;
+    color:black;
+    /* -webkit-text-stroke: 1px red; */
     margin-top: 3%;
   }
   #newburger {
