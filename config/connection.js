@@ -5,10 +5,9 @@ if (process.env.JAWSDB_URL) {
   connection = mysql.createConnection({
     host: "localhost",
     user: "root",
-    password: "root",
+    password: "root1234",
     database: "burgers_db"
   });
 }
 connection.connect();
 module.exports = connection;
-© 2020 GitHub, Inc.
