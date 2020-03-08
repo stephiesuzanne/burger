@@ -1,5 +1,5 @@
 # burger app
-For this assignment, I created a burger logger with MySQL, Node, Express, Handlebars, and a homemade ORM.
+For this assignment, I created a burger logger with MySQL, Node, Express, & Handlebars.
 
 I also deployed my app to Heroku for web hosting. Can be found at 
 https://burger2220.herokuapp.com
